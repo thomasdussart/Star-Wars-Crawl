@@ -9,7 +9,7 @@
 	text-align: center;
 	color: rgb(75, 213, 238);
 	font-size: 200%;
-	animation: intro 80s ease-out infinite;
+	animation: intro 100s ease-out infinite;
 }
 
 #logo {
@@ -20,7 +20,7 @@
 	height: 50%;
 	top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  animation: logo 80s ease-out infinite;
+  animation: logo 100s ease-out infinite;
 }
 
 #scroller {
@@ -37,7 +37,7 @@
 #scroller div {
 	position: absolute;
   top: 100%;
-	animation: scroller 65s linear infinite;
+	animation: scroller 100s linear infinite;
 }
 
 #scroller p {
