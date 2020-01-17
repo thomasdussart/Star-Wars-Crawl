@@ -9,7 +9,7 @@
 	text-align: center;
 	color: rgb(75, 213, 238);
 	font-size: 200%;
-	animation: intro 100s ease-out infinite;
+	animation: intro 80s ease-out infinite;
 }
 
 #logo {
@@ -20,7 +20,7 @@
 	height: 50%;
 	top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  animation: logo 100s ease-out infinite;
+  animation: logo 85s ease-out infinite;
 }
 
 #scroller {
@@ -44,6 +44,17 @@
   margin: 1.35em 0 1.85em 0;
   line-height: 1.35em;
 }
+
+#scroller div h2{
+	text-align: center;
+	margin-bottom: -70px;
+}
+
+#scroller div h1{
+	text-align: center;
+
+}
+
 
 body {
 	width: 100%;
